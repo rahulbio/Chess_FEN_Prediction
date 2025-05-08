@@ -1,6 +1,7 @@
 # Chessboard FEN Prediction Using Convolutional Neural Networks (CNNs)
 
 ## Overview
+## Visit https://analysechess.streamlit.app/ to view the demo version (It works only for our boards, as we trained with only our chess board images)
 
 This project presents a novel method for predicting Forsyth-Edwards Notation (FEN) scores from digital chessboard images using Convolutional Neural Networks (CNNs). By leveraging advanced deep learning techniques and Exploratory Data Analysis (EDA), our model accurately converts chessboard configurations into FEN scores.
 
